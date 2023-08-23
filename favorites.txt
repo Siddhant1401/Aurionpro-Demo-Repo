@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Pav Bhaji
 Chole Bhature
 Sizzler
+=======
+DDLJ
+KGF
+DHAMAAL
+>>>>>>> movies
